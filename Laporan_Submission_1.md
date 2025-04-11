@@ -1,4 +1,7 @@
-# Laporan Proyek Machine Learning - [Nama Anda]
+# Laporan Proyek Machine Learning - I Gusti Made Wardita Winaya
+
+## Dataset
+[Link Dataset](https://drive.google.com/file/d/1g8KTD9c1nW4HpEEScSqNtgvJYDaTD7FZ/view?usp=drive_link)
 
 ## Domain Proyek
 Proyek ini berfokus pada prediksi kemungkinan seseorang menderita diabetes berdasarkan berbagai fitur medis seperti glukosa, tekanan darah, indeks massa tubuh (BMI), dan lainnya. Diabetes merupakan salah satu penyakit kronis yang banyak diderita masyarakat dunia dan dapat menyebabkan komplikasi serius jika tidak ditangani sejak dini.
